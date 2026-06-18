@@ -14,7 +14,8 @@ Machine 8 and 2 make up for 48% of all downtime incidents.
 
 - **Which operators and shifts experience the highest number of failures?**
   
-The top 5 Operators that might need additonal training are: 13, 31, 14, 7 and 6.
+The top five operators recorded the highest number of downtime incidents. Further investigation should normalize failure counts by hours worked, production volume, and machine assignments before attributing performance differences to operator skill.
+
 Although shift A shows more downtime (7525 minutes) than shift B (7150 minutes), the results aren't too discrepant. As we don't have a full panorama of the Copper Company, this could also be due to more activity and personel during the first shift.
 
 - **Are Cable Failures or Other Failures responsible for most downtime?**
